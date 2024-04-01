@@ -1,7 +1,7 @@
 'use client';
 
 import axios from "axios";
-const baseUrl = "http://localhost:8000";
+const baseUrl = "https://notification-sender-server.onrender.com";
 
 const handleClick = async () => {
     try {
